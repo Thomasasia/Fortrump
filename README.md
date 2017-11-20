@@ -1,4 +1,4 @@
-#Fortrump
+# Fortrump
 
 This program is a "parody" of the classic fortune program, except instead of fortunes and quotes, this program exclusively prints trump tweets. 
 It randomly selects one of trump's tweets which are over 20 characters and does not contain a link. 
